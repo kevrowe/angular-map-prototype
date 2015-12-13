@@ -1,0 +1,15 @@
+<nav class="navbar">
+	<div class="panel">
+		<h1 class="heading">Hotels</h1>
+		<div class="filters">
+			<h2 class="heading--filter">Filter 1</h2>
+			<ul class="filters__group">
+				<li class="filters__item" ng-repeat="i in vm.topFilters" ng-click="vm.toggleFilter(i, 'top')" ng-class="{'filters__item--active': vm.selection.top.indexOf(i) > -1}">Value [{{i}}]</li>
+			</ul>
+			<h2 class="heading--filter">Filter 1</h2>
+			<ul class="filters__group">
+				<li class="filters__item" ng-repeat="i in vm.bottomFilters" ng-click="vm.toggleFilter(i, 'bottom')" ng-class="{'filters__item--active': vm.selection.bottom.indexOf(i) > -1}">Value [{{i}}]</li>
+			</ul>
+		</div>
+	</div>
+</nav>

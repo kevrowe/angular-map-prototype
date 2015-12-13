@@ -1,0 +1,37 @@
+.acme-navbar-text{
+  color: white;
+}
+
+.navbar {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	z-index: 1;
+}
+
+.filters {
+	&__group {
+		padding: 0;
+		overflow: hidden;
+	}
+
+	&__item {
+		float: left;
+		list-style: none;
+		padding: 2px 5px;
+		display: block;
+		background-color: #ccc;
+		cursor: pointer;
+
+		&--active {
+			background-color: #eee;
+			font-weight: bold;
+		}
+	}
+}
+
+.heading {
+  &--filter {
+    font-size: 1rem;
+  }
+}

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "566c4fb1b994325788ad5de6",
+    "picture": "http://placehold.it/32x32&text=Dogspa",
+    "company": "SUREMAX",
+    "email": "stephensmcfarland@suremax.com",
+    "about": "Sit veniam nisi eiusmod dolore dolore. Aute tempor incididunt ad exercitation elit proident aute Lorem velit. Excepteur occaecat deserunt deserunt velit nisi.\r\n",
+    "properties": [
+      10,
+      11
+    ],
+    "coords": {
+      "latitude": 3.0692283,
+      "longitude": 101.7225061
+    }
+  },
+  {
+    "id": "566c4fb168066bc22541c02c",
+    "picture": "http://placehold.it/32x32&text=Exotechno",
+    "company": "SENMAO",
+    "email": "stephensmcfarland@senmao.com",
+    "about": "Minim nostrud veniam pariatur sint anim Lorem deserunt reprehenderit sit ad. Occaecat dolor do non deserunt ex ullamco labore ex quis pariatur veniam. Pariatur ullamco adipisicing cillum cupidatat culpa amet nisi cupidatat dolor irure nulla voluptate laboris. Quis sint adipisicing dolore ut nostrud do in reprehenderit occaecat ex voluptate. Ipsum pariatur cupidatat cillum id culpa duis culpa pariatur voluptate.\r\n",
+    "properties": [
+      3,
+      16
+    ],
+    "coords": {
+      "latitude": 3.1741107,
+      "longitude": 101.3070732
+    }
+  },
+  {
+    "id": "566c4fb12ca34374ee0fb461",
+    "picture": "http://placehold.it/32x32&text=Maximind",
+    "company": "IRACK",
+    "email": "stephensmcfarland@irack.com",
+    "about": "Esse excepteur cupidatat proident enim in fugiat. Elit nostrud officia ut consequat ipsum ipsum ipsum pariatur eu ut labore irure. Culpa dolore irure nostrud nisi ea ex deserunt.\r\n",
+    "properties": [
+      4,
+      11
+    ],
+    "coords": {
+      "latitude": 3.3458171,
+      "longitude": 101.6143872
+    }
+  },
+  {
+    "id": "566c4fb1ed21feced2cab2dc",
+    "picture": "http://placehold.it/32x32&text=Anocha",
+    "company": "ZENCO",
+    "email": "stephensmcfarland@zenco.com",
+    "about": "Proident aliquip eu aliqua pariatur culpa velit in sunt exercitation nisi. Est tempor magna ea in ea sunt esse nostrud exercitation in culpa. Qui commodo nisi mollit et in ea excepteur duis. Excepteur ea reprehenderit do occaecat mollit irure. Voluptate do veniam elit dolor deserunt reprehenderit.\r\n",
+    "properties": [
+      10,
+      17
+    ],
+    "coords": {
+      "latitude": 3.3542129,
+      "longitude": 101.5099957
+    }
+  },
+  {
+    "id": "566c4fb18eb4cf6750df5a16",
+    "picture": "http://placehold.it/32x32&text=Lingoage",
+    "company": "ROCKABYE",
+    "email": "stephensmcfarland@rockabye.com",
+    "about": "Minim anim labore ea ullamco adipisicing. Nostrud dolor dolore voluptate reprehenderit aliquip cillum nisi pariatur elit. Velit incididunt aute enim tempor dolor enim irure. Nulla ex irure sint ullamco ipsum quis esse velit exercitation duis exercitation.\r\n",
+    "properties": [
+      3,
+      11
+    ],
+    "coords": {
+      "latitude": 3.3021015,
+      "longitude": 101.4026242
+    }
+  },
+  {
+    "id": "566c4fb1caaae96f03538254",
+    "picture": "http://placehold.it/32x32&text=Zappix",
+    "company": "KOZGENE",
+    "email": "stephensmcfarland@kozgene.com",
+    "about": "Eiusmod pariatur ex occaecat qui commodo quis culpa incididunt veniam velit officia quis consectetur. Et non quis do nostrud amet eu consequat elit labore laboris enim id esse consectetur. Deserunt ipsum duis magna nisi velit laborum. Voluptate occaecat nostrud laborum minim aliqua minim aliqua dolore. Amet ad nostrud ut exercitation ex consequat ad enim ipsum. Culpa in reprehenderit minim pariatur adipisicing. Sint adipisicing ipsum dolor est esse labore anim cillum.\r\n",
+    "properties": [
+      4,
+      14
+    ],
+    "coords": {
+      "latitude": 3.3983084,
+      "longitude": 101.5557335
+    }
+  },
+  {
+    "id": "566c4fb1de3b63b61b2a5009",
+    "picture": "http://placehold.it/32x32&text=Bolax",
+    "company": "BARKARAMA",
+    "email": "stephensmcfarland@barkarama.com",
+    "about": "Incididunt anim sit cupidatat exercitation minim anim. Irure proident proident consectetur enim mollit non aute ex elit. Aute cillum esse Lorem magna ad adipisicing excepteur laboris sunt enim ex consequat pariatur. Eiusmod consequat velit sint qui. Aliquip reprehenderit dolor amet ea id irure occaecat do. Laboris nostrud et occaecat ea proident velit sit fugiat nostrud. Aute amet aliqua aliquip commodo veniam.\r\n",
+    "properties": [
+      4,
+      15
+    ],
+    "coords": {
+      "latitude": 3.2529915,
+      "longitude": 101.5074363
+    }
+  },
+  {
+    "id": "566c4fb148ceabc5e12c4af9",
+    "picture": "http://placehold.it/32x32&text=Interodeo",
+    "company": "EVEREST",
+    "email": "stephensmcfarland@everest.com",
+    "about": "Aliqua consequat exercitation minim elit. Irure nisi consequat quis Lorem tempor aliquip. Nostrud ullamco exercitation laborum eu enim exercitation quis incididunt tempor ad cillum enim irure mollit. Magna aliqua ipsum consectetur cupidatat occaecat dolore pariatur ut labore consectetur labore sint. Do Lorem eiusmod qui Lorem incididunt do.\r\n",
+    "properties": [
+      9,
+      16
+    ],
+    "coords": {
+      "latitude": 3.2588809,
+      "longitude": 101.7043244
+    }
+  },
+  {
+    "id": "566c4fb1ebdb229d67bc67c4",
+    "picture": "http://placehold.it/32x32&text=Prowaste",
+    "company": "XIIX",
+    "email": "stephensmcfarland@xiix.com",
+    "about": "Officia consectetur consectetur do nulla in ea aliqua sint sit Lorem. Id consequat officia do dolore. Ut velit aute eiusmod fugiat dolor culpa ullamco. Aliqua proident non aliquip qui aliqua est est ullamco ullamco mollit.\r\n",
+    "properties": [
+      1,
+      16
+    ],
+    "coords": {
+      "latitude": 3.2409029,
+      "longitude": 101.6239561
+    }
+  },
+  {
+    "id": "566c4fb1d934ba3e1518b143",
+    "picture": "http://placehold.it/32x32&text=Isis",
+    "company": "XUMONK",
+    "email": "stephensmcfarland@xumonk.com",
+    "about": "Magna est nisi aliqua anim non culpa ex labore officia. Occaecat enim labore duis in. Officia non ullamco eu irure sit occaecat ea magna. Labore ut Lorem incididunt eu laborum minim laborum ut ipsum excepteur nostrud aliquip Lorem. Adipisicing quis elit cillum Lorem adipisicing commodo non commodo reprehenderit duis.\r\n",
+    "properties": [
+      4,
+      16
+    ],
+    "coords": {
+      "latitude": 3.1062724,
+      "longitude": 101.6327218
+    }
+  },
+  {
+    "id": "566c4fb1e869ef31744980cc",
+    "picture": "http://placehold.it/32x32&text=Insectus",
+    "company": "SLAX",
+    "email": "stephensmcfarland@slax.com",
+    "about": "Voluptate velit sit sunt cillum tempor minim elit eu occaecat. Laborum dolore quis id sunt ex aute. Consectetur laborum aliquip sit dolore aliquip. Reprehenderit id qui ex eiusmod elit ad fugiat quis sunt labore amet laborum. Amet qui commodo enim ullamco in do laborum id exercitation qui consectetur.\r\n",
+    "properties": [
+      7,
+      18
+    ],
+    "coords": {
+      "latitude": 3.2725216,
+      "longitude": 101.6922453
+    }
+  },
+  {
+    "id": "566c4fb167299dbcaaa95d36",
+    "picture": "http://placehold.it/32x32&text=Luxuria",
+    "company": "COREPAN",
+    "email": "stephensmcfarland@corepan.com",
+    "about": "Est do voluptate aute exercitation consectetur. Ullamco pariatur culpa aliquip elit ullamco id consequat nulla. Enim laboris culpa in in labore cupidatat anim est dolore aliquip sint nisi. Cupidatat aliquip incididunt mollit aliqua consequat enim nisi aliqua incididunt.\r\n",
+    "properties": [
+      2,
+      15
+    ],
+    "coords": {
+      "latitude": 2.9826249,
+      "longitude": 101.3537385
+    }
+  },
+  {
+    "id": "566c4fb1ae7392f559c76d68",
+    "picture": "http://placehold.it/32x32&text=Zenolux",
+    "company": "DANCITY",
+    "email": "stephensmcfarland@dancity.com",
+    "about": "Sint incididunt amet id labore labore ad. Ipsum fugiat commodo commodo proident exercitation id qui cillum. Ullamco reprehenderit sunt veniam duis aute nisi magna laborum laboris. Tempor culpa velit pariatur fugiat exercitation eu tempor excepteur duis enim id esse occaecat. Qui fugiat incididunt pariatur commodo eu non ad irure elit dolor enim tempor ea. Deserunt consequat occaecat magna non. Reprehenderit est duis dolor velit non aliquip minim reprehenderit ipsum eiusmod ipsum id.\r\n",
+    "properties": [
+      10,
+      13
+    ],
+    "coords": {
+      "latitude": 3.1703392,
+      "longitude": 101.3049234
+    }
+  },
+  {
+    "id": "566c4fb1835624d8cd87d38a",
+    "picture": "http://placehold.it/32x32&text=Biospan",
+    "company": "FORTEAN",
+    "email": "stephensmcfarland@fortean.com",
+    "about": "Id anim ad sit fugiat duis aute qui magna. Ex non duis nisi ea fugiat aliqua. Nostrud ullamco deserunt tempor officia est sint cupidatat laborum officia in culpa dolore. Eu nisi magna veniam deserunt ut velit. Laboris amet adipisicing enim pariatur est officia tempor consectetur exercitation. Do nostrud enim ad ullamco dolor enim deserunt exercitation eu laborum dolore anim. Non tempor incididunt tempor tempor.\r\n",
+    "properties": [
+      3,
+      11
+    ],
+    "coords": {
+      "latitude": 3.3855985,
+      "longitude": 101.335244
+    }
+  },
+  {
+    "id": "566c4fb1f5816a6daff25ce8",
+    "picture": "http://placehold.it/32x32&text=Insuresys",
+    "company": "INTERLOO",
+    "email": "stephensmcfarland@interloo.com",
+    "about": "Ullamco magna aliquip adipisicing labore. Voluptate mollit qui adipisicing aute et aute exercitation esse sint cupidatat occaecat sit aute do. Et veniam et cillum enim nulla deserunt exercitation ea. Dolore veniam amet aliqua ad tempor nisi nostrud in sint quis cillum. Laborum dolor esse reprehenderit commodo.\r\n",
+    "properties": [
+      1,
+      11
+    ],
+    "coords": {
+      "latitude": 3.3645906,
+      "longitude": 101.6437388
+    }
+  },
+  {
+    "id": "566c4fb148032f92417f1452",
+    "picture": "http://placehold.it/32x32&text=Comtours",
+    "company": "ANDRYX",
+    "email": "stephensmcfarland@andryx.com",
+    "about": "Minim tempor ipsum eiusmod nostrud elit deserunt officia tempor dolore anim est. Laboris anim est et adipisicing mollit fugiat anim deserunt nostrud enim. Velit adipisicing qui ullamco duis duis qui laborum laborum.\r\n",
+    "properties": [
+      8,
+      11
+    ],
+    "coords": {
+      "latitude": 3.02435,
+      "longitude": 101.6113709
+    }
+  },
+  {
+    "id": "566c4fb101dc7d91c8daab7b",
+    "picture": "http://placehold.it/32x32&text=Webiotic",
+    "company": "ICOLOGY",
+    "email": "stephensmcfarland@icology.com",
+    "about": "Aute sint reprehenderit duis aliquip. Est incididunt culpa ipsum nulla magna proident elit mollit consectetur amet. Proident proident id exercitation nostrud culpa elit ipsum. Occaecat aliquip fugiat minim occaecat anim commodo labore laboris officia minim amet. Id non culpa enim elit dolore aliqua veniam commodo dolor duis esse excepteur ea. Aliqua et mollit velit quis qui fugiat est occaecat officia Lorem sunt aute amet exercitation. Quis Lorem eiusmod tempor sit eu id deserunt excepteur dolor anim id.\r\n",
+    "properties": [
+      4,
+      20
+    ],
+    "coords": {
+      "latitude": 3.3660008,
+      "longitude": 101.7111471
+    }
+  },
+  {
+    "id": "566c4fb139917fd401d4ddf7",
+    "picture": "http://placehold.it/32x32&text=Pharmex",
+    "company": "ASSISTIX",
+    "email": "stephensmcfarland@assistix.com",
+    "about": "Excepteur tempor proident ipsum duis duis ea ea. Aliquip nisi nulla sit tempor culpa ullamco nisi consectetur cupidatat. Sit aute commodo laborum consectetur. Exercitation cillum aliquip proident laboris.\r\n",
+    "properties": [
+      9,
+      13
+    ],
+    "coords": {
+      "latitude": 3.1841017,
+      "longitude": 101.4580446
+    }
+  },
+  {
+    "id": "566c4fb123da6315a6e25bf8",
+    "picture": "http://placehold.it/32x32&text=Chillium",
+    "company": "BRAINCLIP",
+    "email": "stephensmcfarland@brainclip.com",
+    "about": "Quis consequat ut officia laboris nulla laboris ipsum veniam nostrud. Incididunt et adipisicing velit elit sit aliquip excepteur commodo commodo consectetur et. Ea occaecat reprehenderit non nostrud sit mollit est eiusmod nulla tempor ex duis. Aliquip cillum proident adipisicing nisi fugiat culpa excepteur dolor. Do irure irure velit ad consectetur ipsum minim id cupidatat officia labore. Lorem cupidatat nostrud consequat pariatur id dolore aute magna occaecat pariatur esse sit irure enim. Occaecat sunt laborum deserunt elit dolore veniam culpa ullamco non aute sint.\r\n",
+    "properties": [
+      1,
+      19
+    ],
+    "coords": {
+      "latitude": 3.299676,
+      "longitude": 101.2788837
+    }
+  },
+  {
+    "id": "566c4fb1ae5c8ba002a359be",
+    "picture": "http://placehold.it/32x32&text=Idego",
+    "company": "AFFLUEX",
+    "email": "stephensmcfarland@affluex.com",
+    "about": "Pariatur officia ut qui esse dolore non. Ullamco qui quis ullamco adipisicing velit ea adipisicing minim occaecat ad. Magna est anim mollit Lorem ipsum in. Ullamco excepteur pariatur labore consectetur sint ad consectetur occaecat do velit. Fugiat sint fugiat pariatur consectetur esse veniam dolor. Aute officia veniam deserunt quis pariatur magna officia laborum tempor labore laboris proident dolor exercitation.\r\n",
+    "properties": [
+      2,
+      19
+    ],
+    "coords": {
+      "latitude": 2.9519532,
+      "longitude": 101.428011
+    }
+  },
+  {
+    "id": "566c4fb1e2311314c5a4d35a",
+    "picture": "http://placehold.it/32x32&text=Helixo",
+    "company": "MEDIFAX",
+    "email": "stephensmcfarland@medifax.com",
+    "about": "Laboris consectetur deserunt tempor amet dolor cupidatat excepteur magna deserunt voluptate consequat. Consectetur velit enim eu duis eiusmod non velit sint consectetur enim culpa consequat voluptate. Dolor dolore ad dolor reprehenderit sunt ut voluptate. Voluptate dolore eiusmod ullamco consectetur nisi proident dolor consequat ipsum deserunt ea. Ut et velit laborum pariatur sunt laborum qui.\r\n",
+    "properties": [
+      5,
+      14
+    ],
+    "coords": {
+      "latitude": 2.9881662,
+      "longitude": 101.7132379
+    }
+  },
+  {
+    "id": "566c4fb1689a9ea066c637b3",
+    "picture": "http://placehold.it/32x32&text=Inventure",
+    "company": "DECRATEX",
+    "email": "stephensmcfarland@decratex.com",
+    "about": "Incididunt mollit consectetur cillum ullamco aute deserunt pariatur. Occaecat id dolore irure culpa cupidatat Lorem aute nulla eu minim dolor sint aliquip laborum. Culpa magna nisi nostrud consequat labore irure pariatur est esse ipsum consequat non ullamco id. Nulla nisi exercitation labore exercitation tempor.\r\n",
+    "properties": [
+      4,
+      14
+    ],
+    "coords": {
+      "latitude": 3.100388,
+      "longitude": 101.546977
+    }
+  },
+  {
+    "id": "566c4fb1d012cfd12fa170e9",
+    "picture": "http://placehold.it/32x32&text=Ramjob",
+    "company": "TUBESYS",
+    "email": "stephensmcfarland@tubesys.com",
+    "about": "Consectetur adipisicing nulla veniam laborum nisi amet ea velit officia. Occaecat cillum elit eu est do mollit. Do dolore esse laborum elit irure quis et nostrud reprehenderit. Pariatur quis enim in voluptate do officia eu. Dolor eiusmod consequat eiusmod veniam quis esse Lorem ex irure ad dolor amet consectetur. Excepteur elit non enim officia.\r\n",
+    "properties": [
+      1,
+      12
+    ],
+    "coords": {
+      "latitude": 3.0478704,
+      "longitude": 101.7075647
+    }
+  },
+  {
+    "id": "566c4fb1b4be0d1318e9312b",
+    "picture": "http://placehold.it/32x32&text=Kage",
+    "company": "BIZMATIC",
+    "email": "stephensmcfarland@bizmatic.com",
+    "about": "Culpa Lorem tempor reprehenderit eiusmod consectetur in labore amet. Incididunt excepteur nisi do consectetur consectetur anim eiusmod voluptate ea nisi officia tempor. Qui do mollit deserunt labore aliqua anim. Nulla nulla culpa sunt in sunt non qui aute consectetur aute. Commodo esse id adipisicing labore culpa culpa consectetur incididunt dolore pariatur pariatur deserunt dolore. Exercitation in velit dolore consectetur esse deserunt.\r\n",
+    "properties": [
+      6,
+      18
+    ],
+    "coords": {
+      "latitude": 2.9400241,
+      "longitude": 101.283303
+    }
+  },
+  {
+    "id": "566c4fb1c4cc4e3b85d545c8",
+    "picture": "http://placehold.it/32x32&text=Fanfare",
+    "company": "ZERBINA",
+    "email": "stephensmcfarland@zerbina.com",
+    "about": "Incididunt tempor Lorem do et. Veniam enim ut do occaecat nulla in. Aliqua aliquip commodo culpa officia do ea eiusmod proident incididunt fugiat minim.\r\n",
+    "properties": [
+      1,
+      17
+    ],
+    "coords": {
+      "latitude": 3.3243296,
+      "longitude": 101.3384373
+    }
+  },
+  {
+    "id": "566c4fb13631c4322df5040a",
+    "picture": "http://placehold.it/32x32&text=Geekology",
+    "company": "TERAPRENE",
+    "email": "stephensmcfarland@teraprene.com",
+    "about": "Minim cillum nisi ullamco magna reprehenderit anim et ex irure do incididunt. Ad deserunt dolore id sunt exercitation reprehenderit ea velit. Ut quis consectetur qui nisi eiusmod duis est.\r\n",
+    "properties": [
+      10,
+      14
+    ],
+    "coords": {
+      "latitude": 3.1751768,
+      "longitude": 101.5281128
+    }
+  },
+  {
+    "id": "566c4fb1c52f0111f62647da",
+    "picture": "http://placehold.it/32x32&text=Illumity",
+    "company": "OPTYK",
+    "email": "stephensmcfarland@optyk.com",
+    "about": "In esse pariatur et reprehenderit exercitation irure ipsum. Nisi pariatur commodo in amet irure cillum labore eu esse deserunt cupidatat cupidatat. Est incididunt in qui tempor reprehenderit cupidatat do culpa quis magna amet cillum qui voluptate. Duis labore voluptate labore deserunt esse dolore occaecat tempor eiusmod velit adipisicing reprehenderit occaecat non. Cillum ut eiusmod qui eiusmod incididunt. Exercitation veniam ex mollit consectetur id in officia eiusmod do mollit exercitation qui fugiat dolor. Ea eiusmod aliqua adipisicing labore reprehenderit adipisicing tempor cupidatat proident cupidatat veniam sit qui pariatur.\r\n",
+    "properties": [
+      1,
+      16
+    ],
+    "coords": {
+      "latitude": 2.9662116,
+      "longitude": 101.3454787
+    }
+  },
+  {
+    "id": "566c4fb1f39d80795053ef5f",
+    "picture": "http://placehold.it/32x32&text=Rooforia",
+    "company": "APPLIDEC",
+    "email": "stephensmcfarland@applidec.com",
+    "about": "Minim excepteur pariatur labore ut. Nisi irure eiusmod esse aliquip. Laboris minim sint culpa ex et dolor in ullamco id enim culpa tempor ut excepteur. Labore pariatur ut amet ipsum dolor incididunt nostrud adipisicing. Consectetur consequat ad incididunt pariatur occaecat.\r\n",
+    "properties": [
+      10,
+      17
+    ],
+    "coords": {
+      "latitude": 3.2995952,
+      "longitude": 101.3773576
+    }
+  },
+  {
+    "id": "566c4fb19eed599d9df16a27",
+    "picture": "http://placehold.it/32x32&text=Zepitope",
+    "company": "UBERLUX",
+    "email": "stephensmcfarland@uberlux.com",
+    "about": "Reprehenderit aliqua aute commodo enim esse velit. Lorem exercitation occaecat proident aute consectetur labore dolore ex. Amet adipisicing ex veniam ad. Consequat anim velit duis cillum officia culpa sit officia. Ut velit cillum deserunt do tempor amet ullamco in velit Lorem. Laborum laboris cillum amet qui.\r\n",
+    "properties": [
+      9,
+      16
+    ],
+    "coords": {
+      "latitude": 2.955312,
+      "longitude": 101.4106365
+    }
+  },
+  {
+    "id": "566c4fb17493358954f309c6",
+    "picture": "http://placehold.it/32x32&text=Virxo",
+    "company": "QUIZMO",
+    "email": "stephensmcfarland@quizmo.com",
+    "about": "Minim nisi laborum eiusmod Lorem irure. Voluptate amet elit deserunt fugiat ipsum occaecat. Anim veniam incididunt esse laborum aute ex adipisicing velit ullamco veniam id. Id voluptate et commodo dolor et laborum laborum ex proident aliquip quis in. Eiusmod pariatur ut labore nisi ea dolor.\r\n",
+    "properties": [
+      1,
+      13
+    ],
+    "coords": {
+      "latitude": 3.2563387,
+      "longitude": 101.3637473
+    }
+  }
+]
